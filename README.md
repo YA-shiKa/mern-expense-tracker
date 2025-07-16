@@ -2,6 +2,16 @@
 
 **ExpenseFlow** is a full-stack finance management app that empowers users to track income and expenses, organize spending through categories, and gain financial insights via interactive dashboards.
 
+
+---
+
+## 📽️ Demo Video
+
+Watch a full walkthrough of the app – from registration to adding expenses and viewing insights:
+<video src="https://github.com/user-attachments/assets/b833bd53-2d82-4df3-b714-46b470c99393" controls width="100%">
+
+</video>
+
 ---
 
 ## 🚀 Features
@@ -34,15 +44,6 @@
 - MongoDB + Mongoose
 - JWT Authentication
 - Bcrypt, CORS, dotenv
-
----
-
-## 📽️ Demo Video
-
-Watch a full walkthrough of the app – from registration to adding expenses and viewing insights:
-<video src="https://github.com/user-attachments/assets/b833bd53-2d82-4df3-b714-46b470c99393" controls width="100%">
-
-</video>
 
 ---
 
